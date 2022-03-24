@@ -1,7 +1,7 @@
 /*Imports*/
 
-@import url("https://slddev.github.io/SpotiCord/src/main.css");
-@import url("https://slddev.github.io/SpotiCord/src/fixes.css");
+@import url("https://nicorufino.github.io/SpotiCord/src/main.css");
+@import url("https://nicorufino.github.io/SpotiCord/src/fixes.css");
 
 /*Version System*/
 :root {
@@ -32,7 +32,7 @@
 }
 
 .wordmarkWindows-2dq6rw:after {
-  content: "SpotiCord "var(--theme-version)" by Slddev";
+  content: "SpotiCord "var(--theme-version)" by nicorufino";
   color: var(--text-muted);
   font-size: 12px;
   padding-left: 10px;
