@@ -5,7 +5,7 @@
 
 /*Version System*/
 :root {
-  --theme-version: "0.3.1a ";
+  --theme-version: "vSex ";
 }
 
 [id^="SpotiCord"] .bd-addon-header .bd-version:before {
@@ -32,7 +32,7 @@
 }
 
 .wordmarkWindows-2dq6rw:after {
-  content: "SpotiCord "var(--theme-version)" by nicorufino";
+  content: "SpotiCord + Zelk "var(--theme-version)" by nicorufino";
   color: var(--text-muted);
   font-size: 12px;
   padding-left: 10px;
