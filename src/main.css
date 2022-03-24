@@ -1,12 +1,12 @@
 .theme-dark {
   --text-normal: #f4f4f4;
   --background-primary: #1e2529;
-  --background-secondary: #1e2529;
-  --background-secondary-alt: #1e2529;
+  --background-secondary: #171d20;
+  --background-secondary-alt: #273034;
   --background-tertiary: #1e2529
   --background-floating: #1e2529;
   --background-accent: #1ed760;
-  --channeltextarea-background: #1e2529;
+  --channeltextarea-background: #171d20;
   --interactive-normal: #b3b3b3;
   --interactive-hover: #fff;
   --deprecated-quickswitcher-input-background: #313131;
