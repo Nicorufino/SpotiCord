@@ -34,7 +34,7 @@
     width: 225px;
     right: 1%;
     border-radius: 500px;
-    background-color: rgba(0, 0, 0, .7);
+    background-color: var(--background-floating);
     padding: 2px;
     color: #1e2529 !important;
 }

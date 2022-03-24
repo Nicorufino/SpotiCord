@@ -33,3 +33,16 @@
 
   --rs-phone-visible: none; /* Visibility of the phone icon next to a users avatar. | block = visible | none = hidden */
 }
+.theme-dark {
+  --text-normal: #f4f4f4;
+  --background-primary: #171d20;
+  --background-secondary: #171d20;
+  --background-secondary-alt: #273034;
+  --background-tertiary: #171d20;
+  --background-floating: #171d20;
+  --background-accent: #1ed760;
+  --channeltextarea-background: #171d20;
+  --interactive-normal: #b3b3b3;
+  --interactive-hover: #fff;
+  --deprecated-quickswitcher-input-background: #313131;
+}
